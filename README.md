@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Sara  
 
-<!--
-**saramx-dev/saramx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Junior Frontend Developer** | Self-Taught & Passionate About frontend Development  
 
-Here are some ideas to get you started:
+💻 I build **responsive, accessible, and user-friendly websites** with HTML, CSS & JavaScript.
+🎯 Focused on writing **clean, maintainable code** and creating great user experiences  
+📚 Continuously improving my skills and exploring modern frontend tools & workflows  
+🚀 Building projects to apply my knowledge and share my coding journey  
+🤝 Open to collaboration, growth, and beginner-friendly projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5) 
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3) 
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
+
+![Sass](https://img.shields.io/badge/Style-Sass-pink?logo=sass) 
+![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+![Git](https://img.shields.io/badge/Tool-Git-red?logo=git) 
+![GitHub](https://img.shields.io/badge/Tool-GitHub-black?logo=github) 
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visual-studio-code)
+
+---
+
+## 📈 GitHub Stats  
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramx-dev&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saramx-dev&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramx-dev&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://www.linkedin.com/in/saramx-dev/)  
+[![Twitter](https://x.com/saramx_dev)  
