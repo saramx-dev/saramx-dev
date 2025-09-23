@@ -3,6 +3,7 @@
 🌱 **Junior Frontend Developer** | Self-Taught & Passionate About frontend Development  
 
 💻 I build **responsive, accessible, and user-friendly websites** with HTML, CSS & JavaScript.
+
 🎯 Focused on writing **clean, maintainable code** and creating great user experiences  
 📚 Continuously improving my skills and exploring modern frontend tools & workflows  
 🚀 Building projects to apply my knowledge and share my coding journey  
