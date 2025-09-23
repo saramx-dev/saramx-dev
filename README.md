@@ -36,6 +36,6 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in//saramx-dev/)  
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in//saramx-dev/)  
 
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/saramx_dev)
+Twitter: [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/saramx_dev)
