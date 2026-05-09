@@ -1,4 +1,4 @@
-#👋 Hi, I'm Sara
+👋 Hi, I'm Sara
 
 Frontend-focused developer passionate about building responsive email templates and modern landing pages.
 
