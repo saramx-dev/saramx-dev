@@ -12,19 +12,21 @@ Frontend-focused developer passionate about building responsive email templates 
 ---
 
 ## 🛠️ Tech Stack  
-## Frontend-Dev
-![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5) 
-![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3) 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
-![Sass](https://img.shields.io/badge/Style-Sass-pink?logo=sass) 
-![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+  ### Frontend-Dev
+- HTML
+- CSS
+- JavaScript
+- Sass 
+- TailwindCSS
 
-## Email Development
-
-## Tools:
-![Git](https://img.shields.io/badge/Tool-Git-red?logo=git) 
-![GitHub](https://img.shields.io/badge/Tool-GitHub-black?logo=github) 
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visual-studio-code)
+  ### Email Development
+- MJML Email Framework
+  
+ ### Tools
+- Git
+- GitHub 
+- VS Code
+- Netlify cloud (Hosting and Deploying)
 
 ---
 
